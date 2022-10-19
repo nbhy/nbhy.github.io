@@ -3,11 +3,11 @@
   <title>JosephF小屋</title>
   
   
-  <link href="https://blog.fang03.top/atom.xml" rel="self"/>
+  <link href="https://nbhy.github.io/atom.xml" rel="self"/>
   
-  <link href="https://blog.fang03.top/"/>
+  <link href="https://nbhy.github.io/"/>
   <updated>2022-09-28T17:39:34.540Z</updated>
-  <id>https://blog.fang03.top/</id>
+  <id>https://nbhy.github.io/</id>
   
   <author>
     <name>JosephF</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.fang03.top/hello-world/"/>
-    <id>https://blog.fang03.top/hello-world/</id>
+    <link href="https://nbhy.github.io/hello-world/"/>
+    <id>https://nbhy.github.io/hello-world/</id>
     <published>2022-09-28T17:39:34.539Z</published>
     <updated>2022-09-28T17:39:34.540Z</updated>
     
